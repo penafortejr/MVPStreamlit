@@ -1,0 +1,5 @@
+Baixa dependências: 
+pip install -r requirements.txt
+ 
+Inicia no cmd
+streamlit run app.py
